@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Ganymede
+  m_EditorClassIdentifier: 
+  Name: Ganymede
+  Details: Ganymede (Jupiter III) is the largest and most massive moon of Jupiter
+    and in the Solar System. The ninth largest object in the Solar System, it is
+    the largest without a substantial atmosphere. It has a diameter of 5,268 km (3,273
+    mi) and is 8% larger than the planet Mercury, although only 45% as massive. Possessing
+    a metallic core, it has the lowest moment of inertia factor of any solid body
+    in the Solar System and is the only moon known to have a magnetic field. It is
+    the third of the Galilean moons, the first group of objects discovered orbiting
+    another planet, and the seventh satellite outward from Jupiter, Ganymede orbits
+    Jupiter in roughly seven days and is in a 1:2:4 orbital resonance with the moons
+    Europa and Io, respectively.
+  Prefab: {fileID: 4208482054774832623, guid: b113f8a6b27dc4d91a9edf19b5f56ef9, type: 3}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 0}
+  Clouds: 0
+  CloudsMaterial: {fileID: 0}
+  TidallyLocked: 1
+  Orbit: 0.007155182
+  OrbitTilt: 0
+  Size: 0.245
+  Mass: 148.2
+  BodyTilt: 0
+  YearLength: 0.019601515
+  DayLength: 0
+  Coords: n
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: TRAPPIST-1b
+  m_EditorClassIdentifier: 
+  Name: TRAPPIST-1b
+  Details: <b>TRAPPIST-1b</b>, also designated as <b>2MASS J23062928-0502285 b</b>,
+    is a mainly rocky, Venus-like exoplanet orbiting around the ultra-cool dwarf
+    star TRAPPIST-1, located approximately 40 light-years (12 parsecs) away from
+    Earth in the constellation of Aquarius. The planet was detected using the transit
+    method, where a planet dims the host star's light as it passes in front of it.
+    It was first announced on May 2, 2016, and between 2017 and 2018, more studies
+    were able to refine its physical parameters.  The planet is about the same mass
+    as Earth but about 12% larger. Its relatively low density, along with spectroscopic
+    observations, has confirmed an extremely thick and hot atmosphere. Observations
+    published in 2018 showed that the atmosphere of TRAPPIST-1b was much larger than
+    that of Earth or Venus, as well as being very hot and potentially rich in CO2.
+    More recent modeling studies have suggested the planet is too hot to allow the
+    formation of sulfuric acid clouds, such as are found on Venus, the hottest planet
+    in our solar system.
+  Prefab: {fileID: 0}
+  Gaseous: 1
+  Texture:
+  - {fileID: 8900000, guid: a4ad98ee773c24c6bbb780e439843baa, type: 3}
+  - {fileID: 8900000, guid: fcfff13f1d1c941feb07eb6c3c036746, type: 3}
+  Material: {fileID: 0}
+  Clouds: 1
+  CloudsMaterial: {fileID: 2100000, guid: 48c217f8192dec145838b34f586b0078, type: 2}
+  TidallyLocked: 1
+  Orbit: 0.01154
+  OrbitTilt: 0
+  Size: 1.116
+  Mass: 6073.524
+  BodyTilt: 0
+  YearLength: 0.004136986
+  DayLength: 1
+  Coords: 
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

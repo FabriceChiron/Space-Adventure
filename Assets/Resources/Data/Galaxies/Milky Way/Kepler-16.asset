@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 834075130dc7900479ecc8e9dbf9b57d, type: 3}
+  m_Name: Kepler-16
+  m_EditorClassIdentifier: 
+  Name: Kepler-16
+  StarName: 
+  StarSize: 0
+  StarDescription: 
+  StarsItem:
+  - {fileID: 11400000, guid: 32f5283ce1140e149bd512648ec5a529, type: 2}
+  - {fileID: 11400000, guid: 46f123d40b0aae74b8617300f0f39696, type: 2}
+  ScaleFactor: 15
+  Texture: {fileID: 0}
+  Material: {fileID: 0}
+  Top: 0
+  Left: 0
+  ChildrenItem:
+  - {fileID: 11400000, guid: b0e58f5c5bf525b4a8e4237823862539, type: 2}
+  AsteroidBeltItem:
+  - {fileID: 11400000, guid: 9595473043a5e7f4eb08eb68ca7c8823, type: 2}
+  Platinum: 50
+  Turrets: 5

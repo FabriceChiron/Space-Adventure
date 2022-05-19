@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: TRAPPIST-1e
+  m_EditorClassIdentifier: 
+  Name: TRAPPIST-1e
+  Details: <b>TRAPPIST-1e</b>, also designated as <b>2MASS J23062928-0502285 e</b>,
+    is a solid, close-to-Earth-sized exoplanet orbiting within the habitable zone
+    around the ultracool dwarf star TRAPPIST-1 approximately 40 light-years (12 parsecs;
+    380,000,000 million kilometres; 240,000,000 million miles) away from Earth in
+    the constellation of Aquarius. The exoplanet was found by using the transit method,
+    in which the dimming effect that a planet causes as it crosses in front of its
+    star is measured.  It was one of seven new exoplanets discovered orbiting the
+    star using observations from the Spitzer Space Telescope. Three of the seven
+    (e, f, and g) are in the habitable zone. TRAPPIST-1e is similar to Earth's mass,
+    radius, density, gravity, temperature, and stellar flux. It is also confirmed
+    to have a compact atmosphere like the terrestrial planets in our solar system. 
+    In November 2018, researchers determined that of the seven exoplanets in the
+    multiplanetary system, TRAPPIST-1e is the one with the greatest chance of being
+    an Earth-like ocean planet and the one most worthy of further study regarding
+    habitability. According to the Habitable Exoplanets Catalog, TRAPPIST-1e is one
+    of the most potentially habitable exoplanets discovered so far.
+  Prefab: {fileID: 0}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 2100000, guid: efabf59c26bee4ef4aa7f6863ab32d37, type: 2}
+  Clouds: 1
+  CloudsMaterial: {fileID: 2100000, guid: 1f102fd0a1e89984d955a40a383f44bb, type: 2}
+  TidallyLocked: 1
+  Orbit: 0.02925
+  OrbitTilt: 0
+  Size: 0.92
+  Mass: 4610.384
+  BodyTilt: 0
+  YearLength: 0.01671096
+  DayLength: 0
+  Coords: 
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

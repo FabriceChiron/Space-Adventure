@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b3a1cfbef0f7184e9e05ad7dc46d89a, type: 3}
+  m_Name: Sun
+  m_EditorClassIdentifier: 
+  Name: Sun
+  StarDescription: "The Sun is the star at the center of the Solar System. It is
+    a nearly perfect ball of hot plasma, heated to incandescence by nuclear fusion
+    reactions in its core, radiating the energy mainly as visible light, ultraviolet
+    light, and infrared radiation. It is by far the most important source of energy
+    for life on Earth. Its diameter is about 1.39 million kilometres (864,000 miles),
+    or 109 times that of Earth. Its mass is about 330,000 times that of Earth, and
+    it accounts for about 99.86% of the total mass of the Solar System. Roughly three
+    quarters of the Sun's mass consists of hydrogen (~73%); the rest is mostly helium
+    (~25%), with much smaller quantities of heavier elements, including oxygen, carbon,
+    neon and iron.  According to its spectral class, the Sun is a G-type main-sequence
+    star (G2V). As such, it is informally, and not completely accurately, referred
+    to as a yellow dwarf (its light is closer to white than yellow). It formed approximately
+    4.6 billion years ago from the gravitational collapse of matter within a region
+    of a large molecular cloud. Most of this matter gathered in the center, whereas
+    the rest flattened into an orbiting disk that became the Solar System. The central
+    mass became so hot and dense that it eventually initiated nuclear fusion in its
+    core. It is thought that almost all stars form by this process.  The Sun's core
+    fuses about 600 million tons of hydrogen into helium every second, converting
+    4 million tons of matter into energy every second as a result. This energy, which
+    can take between 10,000 and 170,000 years to escape the core, is the source of
+    the Sun's light and heat. When hydrogen fusion in its core has diminished to
+    the point at which the Sun is no longer in hydrostatic equilibrium, its core
+    will undergo a marked increase in density and temperature while its outer layers
+    expand, eventually transforming the Sun into a red giant. It is calculated that
+    the Sun will become sufficiently large to engulf the current orbits of Mercury
+    and Venus, and render Earth uninhabitable \u2013 but not for about five billion
+    years. After this, it will shed its outer layers and become a dense type of cooling
+    star known as a white dwarf, and no longer produce energy by fusion, but still
+    glow and give off heat from its previous fusion."
+  starType: 0
+  Prefab: {fileID: 6417201281091560396, guid: db0efdae38643491cbbb7b3eb00d4e32, type: 3}
+  Material: {fileID: 2100000, guid: d35e5dcc9d4429b48b60c5d19d21313c, type: 2}
+  Orbit: 0
+  OrbitTilt: 0
+  Size: 109
+  YearLength: 0
+  Coords: 
+  ChildrenItem:
+  - {fileID: 11400000, guid: d5bb790338eff90459bbe396f640c898, type: 2}
+  - {fileID: 11400000, guid: 6ebea61587dab4d428cbd3de45f2b8f8, type: 2}
+  - {fileID: 11400000, guid: 71ee25a67a9466146b75266c70fc17e5, type: 2}
+  - {fileID: 11400000, guid: ff4d4623c24abea42ac29fd33b098545, type: 2}
+  - {fileID: 11400000, guid: 5fe5a030dc8ed864792a56348b375a39, type: 2}
+  - {fileID: 11400000, guid: a5866ad366462b9469c77174d0f6364d, type: 2}
+  - {fileID: 11400000, guid: f006be2ada65ea54ab914e21fbab32f4, type: 2}
+  - {fileID: 11400000, guid: fcbb1cb61441f054aaf07b56aa2a0556, type: 2}
+  - {fileID: 11400000, guid: 4fc6f241d5d5c4a4880535cb361082ec, type: 2}
+  AsteroidBeltItem: []

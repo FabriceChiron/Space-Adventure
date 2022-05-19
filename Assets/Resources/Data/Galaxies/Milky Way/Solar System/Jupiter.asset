@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Jupiter
+  m_EditorClassIdentifier: 
+  Name: Jupiter
+  Details: Jupiter is the fifth planet from the Sun and the largest in the Solar
+    System. It is a giant planet with a mass one-thousandth that of the Sun, but
+    two-and-a-half times that of all the other planets in the Solar System combined.
+    Jupiter and Saturn are gas giants; the other two giant planets, Uranus and Neptune
+    are ice giants. Jupiter has been known to astronomers since antiquity. The Romans
+    named it after their god Jupiter.
+  Prefab: {fileID: 5779849372627932684, guid: 409bebe0933d7a0458b52792dbadf131, type: 3}
+  Gaseous: 1
+  Texture: []
+  Material: {fileID: 0}
+  Clouds: 0
+  CloudsMaterial: {fileID: 0}
+  TidallyLocked: 0
+  Orbit: 5.2
+  OrbitTilt: 0
+  Size: 10.973
+  Mass: 1898000
+  BodyTilt: 0
+  YearLength: 11.862
+  DayLength: 0.413
+  Coords: sw
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem:
+  - {fileID: 11400000, guid: d46ebc0a1a94cd84f8a0fdacbf3d3d96, type: 2}
+  - {fileID: 11400000, guid: 0408f54a124f81a46b5c6af71627e77d, type: 2}
+  - {fileID: 11400000, guid: 9fb7da4599c3ac84c922c97d720b9f8f, type: 2}
+  - {fileID: 11400000, guid: 5fa36a36b06f15f49bd05a74a6403e11, type: 2}

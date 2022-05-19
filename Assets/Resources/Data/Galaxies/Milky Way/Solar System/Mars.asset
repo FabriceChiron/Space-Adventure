@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Mars
+  m_EditorClassIdentifier: 
+  Name: Mars
+  Details: Mars is the fourth planet from the Sun and the second-smallest planet
+    in the Solar System after Mercury. In English, Mars carries a name of the Roman
+    god of war, and is often referred to as the \"Red Planet\" because the reddish
+    iron oxide prevalent on its surface gives it a reddish appearance that is distinctive
+    among the astronomical bodies visible to the naked eye. Mars is a terrestrial
+    planet with a thin atmosphere, having surface features reminiscent both of the
+    impact craters of the Moon and the valleys, deserts, and polar ice caps of Earth.
+  Prefab: {fileID: 7591701472406057301, guid: 36a43e8329b45f64bbca2eeec191a369, type: 3}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 0}
+  Clouds: 0
+  CloudsMaterial: {fileID: 0}
+  TidallyLocked: 0
+  Orbit: 1.52
+  OrbitTilt: 0
+  Size: 0.532
+  Mass: 639
+  BodyTilt: -25.19
+  YearLength: 1.8808
+  DayLength: 1.026
+  Coords: se
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

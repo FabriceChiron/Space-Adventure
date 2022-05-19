@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Callisto
+  m_EditorClassIdentifier: 
+  Name: Callisto
+  Details: "Callisto (Jupiter IV) is the second-largest moon of Jupiter, after Ganymede.
+    It is the third-largest moon in the Solar System after Ganymede and Saturn's
+    largest moon Titan, and the largest object in the Solar System not to be properly
+    differentiated. Callisto was discovered in 1610 by Galileo Galilei. At 4821 km
+    in diameter, Callisto has about 99% the diameter of the planet Mercury but only
+    about a third of its mass. It is the fourth Galilean moon of Jupiter by distance,
+    with an orbital radius of about 1883000 km. It is not in an orbital resonance
+    like the three other Galilean satellites\u2014Io, Europa, and Ganymede\u2014and
+    is thus not appreciably tidally heated. Callisto's rotation is tidally locked
+    to its orbit around Jupiter, so that the same hemisphere always faces inward;
+    Jupiter appears to stand nearly still in Callisto's sky. It is less affected
+    by Jupiter's magnetosphere than the other inner satellites because of its more
+    remote orbit, located just outside Jupiter's main radiation belt."
+  Prefab: {fileID: 4208482054774832623, guid: f95eadd47a99c457fa651bdc1fd42c77, type: 3}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 0}
+  Clouds: 0
+  CloudsMaterial: {fileID: 0}
+  TidallyLocked: 1
+  Orbit: 0.012585072
+  OrbitTilt: 0
+  Size: 0.378
+  Mass: 107.5
+  BodyTilt: 0
+  YearLength: 0.045723338
+  DayLength: 0
+  Coords: w
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

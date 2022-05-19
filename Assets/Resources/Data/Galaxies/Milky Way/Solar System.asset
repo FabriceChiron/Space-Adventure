@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 834075130dc7900479ecc8e9dbf9b57d, type: 3}
+  m_Name: Solar System
+  m_EditorClassIdentifier: 
+  Name: Solar System
+  StarName: Sun
+  StarSize: 109
+  StarDescription: 
+  StarsItem:
+  - {fileID: 11400000, guid: af43264eee37be840b38f3be5852548a, type: 2}
+  ScaleFactor: 1
+  Texture: {fileID: 0}
+  Material: {fileID: 2100000, guid: d35e5dcc9d4429b48b60c5d19d21313c, type: 2}
+  Top: 30
+  Left: 34
+  ChildrenItem: []
+  AsteroidBeltItem:
+  - {fileID: 11400000, guid: b03cfee6d9178634391e28b949bf94be, type: 2}
+  - {fileID: 11400000, guid: 51e55f6180232924eb717c0c579f6a93, type: 2}
+  Platinum: 100
+  Turrets: 5

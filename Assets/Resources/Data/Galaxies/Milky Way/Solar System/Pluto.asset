@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Pluto
+  m_EditorClassIdentifier: 
+  Name: Pluto
+  Details: Pluto was discovered by Clyde Tombaugh in 1930 and was originally considered
+    to be the ninth planet from the Sun. After 1992, its status as a planet was questioned
+    following the discovery of several objects of similar size in the Kuiper belt.
+    In 2005, Eris, a dwarf planet in the scattered disc which is 27% more massive
+    than Pluto, was discovered. This led the International Astronomical Union (IAU)
+    to define the term \"planet\" formally in 2006, during their 26th General Assembly.
+    That definition excluded Pluto and reclassified it as a dwarf planet.
+  Prefab: {fileID: 0}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 2100000, guid: fe50d3d40fedb4f0494f72a4e58a26ae, type: 2}
+  Clouds: 0
+  CloudsMaterial: {fileID: 0}
+  TidallyLocked: 0
+  Orbit: 39.5
+  OrbitTilt: -17.16
+  Size: 0.18046409
+  Mass: 13.09
+  BodyTilt: 0
+  YearLength: 247.7
+  DayLength: 0.39166668
+  Coords: nw
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem:
+  - {fileID: 11400000, guid: fc581e2c14e18e244bae2dbe97d4c2e4, type: 2}

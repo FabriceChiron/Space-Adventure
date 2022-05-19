@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Gliese-667Cc
+  m_EditorClassIdentifier: 
+  Name: Gliese-667Cc
+  Details: "<b>Gliese 667 Cc</b> (also known as <b>GJ 667Cc</b>, <b>HR 6426Cc</b>,
+    or <b>HD 156384Cc</b>) is an exoplanet orbiting within the habitable zone of
+    the red dwarf star Gliese 667 C, which is a member of the Gliese 667 triple star
+    system, approximately 23.62 light-years (7.24 parsecs; 223.5 trillion kilometres)
+    away in the constellation of Scorpius. The exoplanet was found by using the radial
+    velocity method, from radial-velocity measurements via observation of Doppler
+    shifts in the spectrum of the planet's parent star.  Gliese 667 Cc is a super-Earth,
+    an exoplanet with a mass and radius greater than that of Earth, but smaller than
+    that of the giant planets Uranus and Neptune. It is heavier than Earth with a
+    minimum mass of about 3.7 Earth masses. The equilibrium temperature of Gliese
+    667 Cc is estimated to be 277.4 K (4.3 \xB0C; 39.6 \xB0F). It is expected to
+    have a radius of around 1.5 REarth, dependent upon its composition."
+  Prefab: {fileID: 0}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 2100000, guid: efabf59c26bee4ef4aa7f6863ab32d37, type: 2}
+  Clouds: 0
+  CloudsMaterial: {fileID: 2100000, guid: 7ae4316f44d34824a8700648034b43d0, type: 2}
+  TidallyLocked: 1
+  Orbit: 0.1251
+  OrbitTilt: -30
+  Size: 1.5
+  Mass: 22150.148
+  BodyTilt: 0
+  YearLength: 0.077136986
+  DayLength: 0
+  Coords: 
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

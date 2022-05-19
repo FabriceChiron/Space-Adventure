@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: H-065
+  m_EditorClassIdentifier: 
+  Name: H-065
+  Details: Although their surveys were inconclusive, Milky Way scientists believed
+    H-065 was potentially inhabitable. Now it's a scorching desert; whatever it was
+    before the Scourge is lost.
+  Texture: {fileID: 2800000, guid: 18f7b842b271e844ba7b638a6a84ae39, type: 3}
+  Clouds: 0
+  TidallyLocked: 0
+  Orbit: 1.4
+  OrbitTilt: 0
+  Size: 0.8902477
+  BodyTilt: 0
+  YearLength: 1.3
+  DayLength: 1
+  Coords: n
+  Rings: 1

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 834075130dc7900479ecc8e9dbf9b57d, type: 3}
+  m_Name: TRAPPIST-1
+  m_EditorClassIdentifier: 
+  Name: TRAPPIST-1
+  StarName: TRAPPIST-1
+  StarSize: 12.535
+  StarDescription: 
+  StarsItem:
+  - {fileID: 11400000, guid: c1709ec5989f21b44ba79b38fc890aff, type: 2}
+  ScaleFactor: 100
+  Texture: {fileID: 0}
+  Material: {fileID: 2100000, guid: c575297c6d9b36843a12e99e55943111, type: 2}
+  Top: 0
+  Left: 0
+  ChildrenItem: []
+  AsteroidBeltItem:
+  - {fileID: 11400000, guid: 324204b4ce50e6144b1f7bb4a50a2554, type: 2}
+  Platinum: 0
+  Turrets: 0

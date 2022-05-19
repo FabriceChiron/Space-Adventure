@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 834075130dc7900479ecc8e9dbf9b57d, type: 3}
+  m_Name: Civki
+  m_EditorClassIdentifier: 
+  Name: Civki
+  StarName: Civki
+  StarSize: 10
+  StarDescription: 
+  ScaleFactor: 1
+  Texture: {fileID: 0}
+  Material: {fileID: 2100000, guid: c575297c6d9b36843a12e99e55943111, type: 2}
+  Top: 68.3
+  Left: 7.2
+  ChildrenItem:
+  - {fileID: 11400000, guid: d2c3abf2704acea4183893972938f46c, type: 2}
+  - {fileID: 11400000, guid: 9c87ede615e0111438b131fb117e6e39, type: 2}
+  - {fileID: 11400000, guid: a140817a636cc844fbb67a491612c75e, type: 2}
+  - {fileID: 11400000, guid: b10da3d53162933479a881eca16db66e, type: 2}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b3a1cfbef0f7184e9e05ad7dc46d89a, type: 3}
+  m_Name: Kepler-90
+  m_EditorClassIdentifier: 
+  Name: Kepler-90
+  StarDescription: Kepler-90, also designated 2MASS J18574403+4918185, is a G-type
+    main sequence star located about 2,840 light-years (870 pc) from Earth in the
+    constellation of Draco. It is notable for possessing a planetary system that
+    has the same number of observed planets as the Solar System.
+  starType: 0
+  Prefab: {fileID: 6417201281091560396, guid: db0efdae38643491cbbb7b3eb00d4e32, type: 3}
+  Material: {fileID: 2100000, guid: d35e5dcc9d4429b48b60c5d19d21313c, type: 2}
+  Orbit: 0
+  OrbitTilt: 0
+  Size: 130.8
+  YearLength: 0
+  Coords: 
+  ChildrenItem: []
+  AsteroidBeltItem: []

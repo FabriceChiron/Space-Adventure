@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Titan
+  m_EditorClassIdentifier: 
+  Name: Titan
+  Details: "Titan is the largest moon of Saturn and the second-largest natural satellite
+    in the Solar System. It is the only moon known to have a dense atmosphere.<br><br>Titan
+    is the sixth gravitationally rounded moon from Saturn. Frequently described as
+    a planet-like moon, Titan is 50% larger than Earth's moon and 80% more massive.
+    It is the second-largest moon in the Solar System after Jupiter's moon Ganymede,
+    and is larger than the planet Mercury, but only 40% as massive. Discovered in
+    1655 by the Dutch astronomer Christiaan Huygens, Titan was the first known moon
+    of Saturn, and the sixth known planetary satellite (after Earth's moon and the
+    four Galilean moons of Jupiter). Titan orbits Saturn at 20 Saturn radii. From
+    Titan's surface, Saturn subtends an arc of 5.09 degrees and would appear 11.4
+    times larger in the sky than the Moon from Earth.<br><br>Titan is primarily composed
+    of ice and rocky material. Much as with Venus before the Space Age, the dense
+    opaque atmosphere prevented understanding of Titan's surface until the Cassini\u2013Huygens
+    mission in 2004 provided new information, including the discovery of liquid hydrocarbon
+    lakes in Titan's polar regions. The geologically young surface is generally smooth,
+    with few impact craters, although mountains and several possible cryovolcanoes
+    have been found.<br><br>The atmosphere of Titan is largely nitrogen; minor components
+    lead to the formation of methane and ethane clouds and nitrogen-rich organic
+    smog. The climate\u2014including wind and rain\u2014creates surface features
+    similar to those of Earth, such as dunes, rivers, lakes, seas (probably of liquid
+    methane and ethane), and deltas, and is dominated by seasonal weather patterns
+    as on Earth. With its liquids (both surface and subsurface) and robust nitrogen
+    atmosphere, Titan's methane cycle is analogous to Earth's water cycle, at the
+    much lower temperature of about 94 K (\u2212179.2 \xB0C; \u2212290.5 \xB0F)."
+  Prefab: {fileID: 4763894580742127839, guid: ed32fcc7cc10f4909954517c2a38229e, type: 3}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 0}
+  Clouds: 0
+  CloudsMaterial: {fileID: 0}
+  TidallyLocked: 1
+  Orbit: 0.0086
+  OrbitTilt: 0
+  Size: 0.404
+  Mass: 0
+  BodyTilt: 0
+  YearLength: 0.043684933
+  DayLength: 0
+  Coords: e
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

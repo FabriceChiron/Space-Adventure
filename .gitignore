@@ -70,3 +70,61 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+Packages/
+
+Assets/AutoHand/
+
+Assets/SpaceStationsCreator/
+
+Assets/ExampleAssets/
+
+Assets/HiRezSpaceshipsCreator/
+
+Assets/HiRezSpaceshipsCreatorFree/
+
+Assets/PickUpItems/
+
+Assets/ModularSci-FiWeapons/
+
+Assets/Real Stars Skybox/
+
+Assets/WarpGates/
+
+Assets/Oculus/
+
+Assets/Science Police Turret/
+
+Assets/SpaceCombatKit/
+
+Assets/SCSM/
+
+Assets/Space Graphics Toolkit/
+
+Assets/Lights/
+
+Assets/My Planets/
+
+Assets/VRConsole/
+
+Assets/XR/
+
+Assets/TextMesh Pro/
+
+Assets/AutoHand.meta
+
+Assets/HiRezSpaceshipsCreator.meta
+
+*.meta
+
+Assets/.DS_Store
+
+Assets/Prefabs/.DS_Store
+
+Assets/Materials/Clouds/
+
+Assets/Materials/Stellar Bodies/
+
+Assets/Materials/Stars/
+
+Assets/Materials/.DS_Store

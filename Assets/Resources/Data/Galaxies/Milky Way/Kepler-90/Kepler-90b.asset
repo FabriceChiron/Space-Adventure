@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Kepler-90b
+  m_EditorClassIdentifier: 
+  Name: Kepler-90b
+  Details: Kepler-90b is a super Earth exoplanet that orbits a G-type star. Its mass
+    is 2.27 Earths, it takes 7 days to complete one orbit of its star, and is 0.074
+    AU from its star. Its discovery was announced in 2013.
+  Prefab: {fileID: 0}
+  Gaseous: 0
+  Texture:
+  - {fileID: 0}
+  Material: {fileID: 2100000, guid: c8bd1755737d44cdd992a42e808af8f6, type: 2}
+  Clouds: 0
+  CloudsMaterial: {fileID: 2100000, guid: 7ae4316f44d34824a8700648034b43d0, type: 2}
+  TidallyLocked: 1
+  Orbit: 0.074
+  OrbitTilt: 0
+  Size: 1.31
+  Mass: 7823.32
+  BodyTilt: 0
+  YearLength: 0.0192
+  DayLength: 0
+  Coords: 
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Europa
+  m_EditorClassIdentifier: 
+  Name: Europa
+  Details: Europa (Jupiter II), is the smallest of the four Galilean moons orbiting
+    Jupiter, and the sixth-closest to the planet. It is also the sixth-largest moon
+    in the Solar System. Europa was discovered in 1610 by Galileo Galilei and was
+    named after Europa, the legendary mother of King Minos of Crete and lover of
+    Zeus (the Greek equivalent of the Roman god Jupiter).
+  Prefab: {fileID: 4208482054774832623, guid: 419fa2ff35dc647aaa4aae2f63cfaac1, type: 3}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 0}
+  Clouds: 0
+  CloudsMaterial: {fileID: 0}
+  TidallyLocked: 1
+  Orbit: 0.0044846893
+  OrbitTilt: 0
+  Size: 0.245
+  Mass: 480
+  BodyTilt: 0
+  YearLength: 0.009726027
+  DayLength: 0
+  Coords: e
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

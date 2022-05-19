@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Earth
+  m_EditorClassIdentifier: 
+  Name: Earth
+  Details: Earth is the third planet from the Sun and the only object in the Universe
+    known to harbor life. According to radiometric dating and other sources of evidence,
+    Earth formed over 4 billion years ago. Earth's gravity interacts with other objects
+    in space, especially the Sun and the Moon, Earth's only natural satellite.
+  Prefab: {fileID: 6927338795248942147, guid: b3ac4afe3ee10c74f97eb55ccc3ba16f, type: 3}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 0}
+  Clouds: 1
+  CloudsMaterial: {fileID: 2100000, guid: 7ae4316f44d34824a8700648034b43d0, type: 2}
+  TidallyLocked: 0
+  Orbit: 1
+  OrbitTilt: 0
+  Size: 1
+  Mass: 5972
+  BodyTilt: -23.5
+  YearLength: 1
+  DayLength: 1
+  Coords: sw
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem:
+  - {fileID: 11400000, guid: ee02331540ce10848863509017fdb852, type: 2}

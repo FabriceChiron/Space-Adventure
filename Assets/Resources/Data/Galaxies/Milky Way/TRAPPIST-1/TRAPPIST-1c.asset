@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: TRAPPIST-1c
+  m_EditorClassIdentifier: 
+  Name: TRAPPIST-1c
+  Details: <b>TRAPPIST-1c</b>, also designated as <b>2MASS J23062928-0502285 c</b>,
+    is a mainly rocky, Venus-like exoplanet orbiting around the ultracool dwarf star
+    TRAPPIST-1 approximately 40 light-years away from Earth in the constellation
+    Aquarius. It is the most massive and third largest planet of the system, with
+    about 116% the mass and 110% the radius of Earth. Its density indicates a primarily
+    rocky composition with a very thick Venus-like atmosphere, although it is expected
+    to be thinner than that of TRAPPIST-1b.
+  Prefab: {fileID: 0}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 2100000, guid: fc51010aef2ff4c55b6802c955dec8dd, type: 2}
+  Clouds: 1
+  CloudsMaterial: {fileID: 2100000, guid: b88f25b4fcde5544488fa6a1ddd7a121, type: 2}
+  TidallyLocked: 1
+  Orbit: 0.0158
+  OrbitTilt: 0
+  Size: 1.097
+  Mass: 6903.632
+  BodyTilt: 0
+  YearLength: 0.0066347946
+  DayLength: 1
+  Coords: 
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

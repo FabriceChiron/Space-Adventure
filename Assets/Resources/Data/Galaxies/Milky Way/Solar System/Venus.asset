@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Venus
+  m_EditorClassIdentifier: 
+  Name: Venus
+  Details: Venus is the second planet from the Sun, orbiting it every 224.7 Earth
+    days. It has the longest rotation period (243 days) of any planet in the Solar
+    System and rotates in the opposite direction to most other planets. It has no
+    natural satellites.
+  Prefab: {fileID: 4763894580742127839, guid: 7d7ec8b69aabfbd4d876cc673d42181f, type: 3}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 0}
+  Clouds: 0
+  CloudsMaterial: {fileID: 2100000, guid: 636b610856fbfcd4d8098d1949d75dfc, type: 2}
+  TidallyLocked: 0
+  Orbit: 0.723
+  OrbitTilt: 0
+  Size: 0.95
+  Mass: 4867
+  BodyTilt: 0
+  YearLength: 0.61
+  DayLength: -243.025
+  Coords: ne
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

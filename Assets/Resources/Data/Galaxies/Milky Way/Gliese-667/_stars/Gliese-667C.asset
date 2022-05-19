@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b3a1cfbef0f7184e9e05ad7dc46d89a, type: 3}
+  m_Name: Gliese-667C
+  m_EditorClassIdentifier: 
+  Name: Gliese-667C
+  StarDescription: Gliese 667 C is the smallest star in the system, with only around
+    31% of the mass of the Sun and 42% of the Sun's radius, orbiting approximately
+    230 AU from the Gliese 667 AB pair. It is a red dwarf with a stellar classification
+    of M1.5. This star is radiating only 1.4% of the Sun's luminosity from its outer
+    atmosphere at a relatively cool effective temperature of 3,700 K. This temperature
+    is what gives it the red-hued glow that is a characteristic of M-type stars.
+    The apparent magnitude of the star is 10.25, giving it an absolute magnitude
+    of about 11.03. It is known to have a system of two planets; claims have been
+    made for five additional planets but this may be an error due to failure to account
+    for correlated noise in the radial velocity data. The red dwarf status of the
+    star would allow planet Cc, which is in the habitable zone, to receive minimal
+    amounts of ultraviolet radiation.
+  starType: 3
+  Prefab: {fileID: 6417201281091560396, guid: e6e5320e8793b4aa5a02f829a40ab749, type: 3}
+  Material: {fileID: 2100000, guid: c575297c6d9b36843a12e99e55943111, type: 2}
+  Orbit: 10
+  OrbitTilt: 0
+  Size: 45.78
+  YearLength: 42.15
+  Coords: ne
+  ChildrenItem:
+  - {fileID: 11400000, guid: 278ce5e8ce2ab1e4699b2229f7e35928, type: 2}
+  - {fileID: 11400000, guid: 6b68dbecba2217d4c971e3ef45ffe0e3, type: 2}
+  AsteroidBeltItem: []

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: Mercury
+  m_EditorClassIdentifier: 
+  Name: Mercury
+  Details: Mercury is the smallest and innermost planet in the Solar System. Its
+    orbital period around the Sun of 88 days is the shortest of all the planets in
+    the Solar System. It is named after the Roman deity Mercury, the messenger to
+    the gods.
+  Prefab: {fileID: 7380062397760781764, guid: ee6335551aa068b4db2112e545229a8a, type: 3}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 0}
+  Clouds: 0
+  CloudsMaterial: {fileID: 0}
+  TidallyLocked: 0
+  Orbit: 0.387
+  OrbitTilt: 0
+  Size: 0.383
+  Mass: 328.5
+  BodyTilt: 0
+  YearLength: 0.24
+  DayLength: 58.646
+  Coords: s
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

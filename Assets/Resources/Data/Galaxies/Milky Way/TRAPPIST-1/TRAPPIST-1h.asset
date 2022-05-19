@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: TRAPPIST-1h
+  m_EditorClassIdentifier: 
+  Name: TRAPPIST-1h
+  Details: <b>TRAPPIST-1h</b>, also designated as <b>2MASS J23062928-0502285 h</b>,
+    is an exoplanet orbiting around the ultra-cool dwarf star TRAPPIST-1 39 light-years
+    (12 parsecs) away from Earth in the constellation Aquarius. It was one of four
+    new exoplanets to be discovered orbiting the star using observations from the
+    Spitzer Space Telescope. Throughout 2017 and 2018, more studies were able to
+    refine its physical parameters.  The outermost known planet in its system, it
+    is roughly one third the mass of Earth, and about 77% as large. Its relatively
+    low density indicates that it is likely water-rich, like several other planets
+    in the system.
+  Prefab: {fileID: 0}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 2100000, guid: d2c4e7f73639f48aa805882cda7be84d, type: 2}
+  Clouds: 0
+  CloudsMaterial: {fileID: 0}
+  TidallyLocked: 0
+  Orbit: 0.06189
+  OrbitTilt: 0
+  Size: 0.775
+  Mass: 1976.732
+  BodyTilt: 0
+  YearLength: 0.05141719
+  DayLength: 3.5
+  Coords: 
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

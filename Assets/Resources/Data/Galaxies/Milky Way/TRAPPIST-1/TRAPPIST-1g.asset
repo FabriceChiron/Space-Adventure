@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0817d767de5974f4dbb5fb99f702e1e2, type: 3}
+  m_Name: TRAPPIST-1g
+  m_EditorClassIdentifier: 
+  Name: TRAPPIST-1g
+  Details: <b>TRAPPIST-1g</b>, also designated as <b>2MASS J23062928-0502285 g</b>,
+    is an exoplanet orbiting around the ultra-cool dwarf star TRAPPIST-1 39 light-years
+    (12 parsecs) away from Earth in the constellation Aquarius. It was one of four
+    new exoplanets to be discovered orbiting the star using observations from the
+    Spitzer Space Telescope. The exoplanet is within the optimistic habitable zone
+    of its host star. It was found by using the transit method, in which the dimming
+    effect that a planet causes as it crosses in front of its star is measured. 
+    The second most distant known planet in its system, TRAPPIST-1g is a planet larger
+    than Earth yet less dense, meaning it likely hosts some form of water.
+  Prefab: {fileID: 0}
+  Gaseous: 0
+  Texture: []
+  Material: {fileID: 2100000, guid: ef60612539fc84e07bb726a3749cec33, type: 2}
+  Clouds: 0
+  CloudsMaterial: {fileID: 2100000, guid: b88f25b4fcde5544488fa6a1ddd7a121, type: 2}
+  TidallyLocked: 0
+  Orbit: 0.04683
+  OrbitTilt: 0
+  Size: 1.129
+  Mass: 6855.856
+  BodyTilt: 0
+  YearLength: 0.033845358
+  DayLength: 1
+  Coords: 
+  Rings: 0
+  RingsPrefab: {fileID: 0}
+  ChildrenItem: []

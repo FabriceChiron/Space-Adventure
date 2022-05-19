@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b3a1cfbef0f7184e9e05ad7dc46d89a, type: 3}
+  m_Name: Gliese-667B
+  m_EditorClassIdentifier: 
+  Name: Gliese-667B
+  StarDescription: Like the primary, the secondary star Gliese 667 B (GJ 667 B) is
+    a K-type main-sequence star, although it has a slightly later stellar classification
+    of K5V. This star has a mass of about 69% of the Sun, or 95% of the primary's
+    mass, and it is radiating about 5% of the Sun's visual luminosity. The secondary's
+    apparent magnitude is 7.24, giving it an absolute magnitude of around 8.02.
+  starType: 2
+  Prefab: {fileID: 6417201281091560396, guid: 73bb92a5017f64aa999bb2ea189bab85, type: 3}
+  Material: {fileID: 2100000, guid: de390b6470df67b499d42716becdcd40, type: 2}
+  Orbit: 1
+  OrbitTilt: 0
+  Size: 78.698
+  YearLength: 42.15
+  Coords: e
+  ChildrenItem: []
+  AsteroidBeltItem: []

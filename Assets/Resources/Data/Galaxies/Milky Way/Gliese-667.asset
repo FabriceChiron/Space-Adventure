@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 834075130dc7900479ecc8e9dbf9b57d, type: 3}
+  m_Name: Gliese-667
+  m_EditorClassIdentifier: 
+  Name: Gliese-667
+  StarName: 
+  StarSize: 0
+  StarDescription: 
+  StarsItem:
+  - {fileID: 11400000, guid: db8ccbd3d61ee3040896feafb30d65c2, type: 2}
+  - {fileID: 11400000, guid: 29b33f82777629f4d8bc5e32b7f14922, type: 2}
+  - {fileID: 11400000, guid: 10bcf4d389976cd449ad63421228b935, type: 2}
+  ScaleFactor: 1
+  Texture: {fileID: 0}
+  Material: {fileID: 0}
+  Top: 0
+  Left: 0
+  ChildrenItem: []
+  AsteroidBeltItem:
+  - {fileID: 11400000, guid: e9ddab1e20e3e074991f46e0ff4b9afb, type: 2}
+  Platinum: 100
+  Turrets: 10

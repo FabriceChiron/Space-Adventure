@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b3a1cfbef0f7184e9e05ad7dc46d89a, type: 3}
+  m_Name: Kepler-16B
+  m_EditorClassIdentifier: 
+  Name: Kepler-16B
+  StarDescription: Kepler-16B is an M-type red dwarf
+  starType: 3
+  Prefab: {fileID: 6417201281091560396, guid: e6e5320e8793b4aa5a02f829a40ab749, type: 3}
+  Material: {fileID: 2100000, guid: c575297c6d9b36843a12e99e55943111, type: 2}
+  Orbit: 0.07
+  OrbitTilt: 0
+  Size: 24.65907
+  YearLength: 0.1123288
+  Coords: se
+  ChildrenItem: []
+  AsteroidBeltItem: []
