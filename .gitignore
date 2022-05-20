@@ -115,7 +115,7 @@ Assets/AutoHand.meta
 
 Assets/HiRezSpaceshipsCreator.meta
 
-*.meta
+*.DS_Store
 
 Assets/.DS_Store
 
