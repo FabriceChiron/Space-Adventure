@@ -265,6 +265,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1837001742}
     m_Modifications:
+    - target: {fileID: 1774652201, guid: 1750576fc292f70409c26b98e1efd379, type: 3}
+      propertyPath: m_Mass
+      value: 140
+      objectReference: {fileID: 0}
     - target: {fileID: 4432154408373518857, guid: 1750576fc292f70409c26b98e1efd379,
         type: 3}
       propertyPath: m_RootOrder
@@ -397,7 +401,7 @@ PrefabInstance:
       objectReference: {fileID: 1454401784}
     - target: {fileID: 1456541507, guid: f59d29eb768f08a4b96e9974fb0e4f76, type: 3}
       propertyPath: m_VersionIndex
-      value: 43
+      value: 46
       objectReference: {fileID: 0}
     - target: {fileID: 1133855531961150, guid: f59d29eb768f08a4b96e9974fb0e4f76, type: 3}
       propertyPath: m_Name
@@ -520,7 +524,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-266028
+  m_Name: pb_Mesh-6810
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
